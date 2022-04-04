@@ -1,7 +1,5 @@
 # Gitpod Full VNC Workspace On 1366x768 Resolution
 
-![Docker Cloud Automated build](https://img.shields.io/docker/cloud/automated/baneeishaque/gitpod-workspace-full-vnc-1366x768)
-![Docker Cloud Build Status](https://img.shields.io/docker/cloud/build/baneeishaque/gitpod-workspace-full-vnc-1366x768)
 ![Docker Image Version (tag latest semver)](https://img.shields.io/docker/v/baneeishaque/gitpod-workspace-full-vnc-1366x768/latest)
 ![Docker Image Size (tag)](https://img.shields.io/docker/image-size/baneeishaque/gitpod-workspace-full-vnc-1366x768/latest)
 ![Docker Pulls](https://img.shields.io/docker/pulls/baneeishaque/gitpod-workspace-full-vnc-1366x768)
@@ -12,6 +10,10 @@
 
 [![Open in Cloud Shell](https://gstatic.com/cloudssh/images/open-btn.svg)](https://ssh.cloud.google.com/cloudshell/editor?cloudshell_git_repo=https://github.com/Baneeishaque/gitpod-workspace-full-vnc-1366x768)
 
-### Base Image : [gitpod/workspace-full-vnc](https://hub.docker.com/r/gitpod/workspace-full-vnc)  
+### Docker Hub : [baneeishaque/gitpod-workspace-full-vnc-1366x768](https://hub.docker.com/repository/docker/baneeishaque/gitpod-workspace-full-vnc-1366x768)
+
+### Base Image : [gitpod/workspace-full-vnc](https://hub.docker.com/r/gitpod/workspace-full-vnc)
+
+### Base Image Repo. : [gitpod-io/workspace-images](https://github.com/gitpod-io/workspace-images)
 
 [//]: # "[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/Baneeishaque/gitpod-workspace-full-vnc-1366x768)"

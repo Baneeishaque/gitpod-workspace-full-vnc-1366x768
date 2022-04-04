@@ -3,7 +3,7 @@ image:
 
 # tasks:
   # - init: /usr/bin/start-vnc-session.sh
-    
+
 ports:
   - port: 5900
     onOpen: ignore
